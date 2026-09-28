@@ -5,6 +5,7 @@ parts:
     numbered: False
     chapters:
       - file: getting_started
+      - file: BI500_getting_started
 
   - caption: Processing
     numbered: False
