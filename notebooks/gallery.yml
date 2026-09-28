@@ -6,6 +6,12 @@
       notebook: getting_started.ipynb
       summary: A minimum example to get started on Echopype functions.
       image: images/gallery/01_getting_started.png
+    - name: Getting Started with BI500 Data
+      website: BI500_getting_started.html
+      repository: https://github.com/echostack-org/echopype-examples/blob/main/notebooks/BI500_getting_started.ipynb
+      notebook: BI500_getting_started.ipynb
+      summary: Convert and process multi-channel BI500 acoustic data with echopype.
+      image: images/gallery/BI500_getting_started.png
 
 - section: Processing
   items:
