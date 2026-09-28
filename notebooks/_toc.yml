@@ -17,6 +17,7 @@ parts:
       - file: hake_mask
       - file: glider_AZFP
       - file: resample_to_geometry
+      - file: single_transect_data_organization
 
   - caption: Community showcase
     numbered: False
